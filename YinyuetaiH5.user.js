@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name		YingyuetaiH5
-// @namespace	https://github.com/Lynn-T
+// @namespace	https://github.com/Zoltan17/UserScripts/YinyuetaiH5
 // @version		0.1
 // @description	自动重定向音悦台到H5页面
 // @author		Zoltan

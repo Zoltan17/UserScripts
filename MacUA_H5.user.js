@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name		MacView
-// @namespace	https://github.com/Zoltan17
+// @namespace	https://github.com/Zoltan17/MacUS_H5
 // @description	伪装成Mac同时禁用flash,启用HTML5播放器
+// @version		0.1
 // @author		Zoltan17
 // @include		*://v.qq.com/*
 // @include		*://lol.qq.com/v/*
